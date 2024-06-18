@@ -5,7 +5,7 @@
 ## Depth-skip pruning implementation for StableSR
 
 
-### Fast start
+### Quick start
 
 - Execute doit.sh 
 ```bash
@@ -28,8 +28,3 @@ python scripts/sr_val_ddpm_text_T_vqganfin_depthskip.py \
   --colorfix_type adain \
   --depth 8 # Control depth level
 ```
-
-
-
-
-
